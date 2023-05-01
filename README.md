@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hola! Soy Iván Knopoff 👋
 
+
+Soy estudiante de programación tanto en la universidad como de manera autodidacta con cursos online y con seminarios diversos.
+
+Durante 12 años ejercí como profesor de Historia en colegios secundarios e Institutos de formación profesional.
+
+Desde 2021 trabajo como desarrollador, principalmente utilizando 
+[![SMALLTALK](https://img.shields.io/badge/-SMALLTALK-orange)]() 
+
+Me interesan los proyectos de big data y para ello hago uso de  [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](), lenguaje que intento aprender día a día
 <!--
 **Ivanknop/Ivanknop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
